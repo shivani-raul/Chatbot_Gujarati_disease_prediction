@@ -42,4 +42,4 @@ The Gujarati language dataset is prepared manually which includes symptoms, dise
 
 ● Step 18 : Take input from the user yes/no - whether he/she wants to get details of the disease or not. 
 
-● Step 19 : If input is yes : Display all details of the disease. Else : Display Thank You 15
+● Step 19 : If input is yes : Display all details of the disease. Else : Display Thank You 
