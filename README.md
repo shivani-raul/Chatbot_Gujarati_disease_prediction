@@ -43,3 +43,8 @@ The Gujarati language dataset is prepared manually which includes symptoms, dise
 ● Step 18 : Take input from the user yes/no - whether he/she wants to get details of the disease or not. 
 
 ● Step 19 : If input is yes : Display all details of the disease. Else : Display Thank You 
+
+### Learning
+The chatbot acts as a user application. The user of this application can specify their symptoms or disease (if they already know) to the chatbot and in turn, the chatbot will specify the health measures to be taken. General information about symptoms and diseases are available in the dataset and thus our chatbot can provide information about disease and treatment to the user.
+
+The concept of Natural Language Processing is used to design an interactive chatbot to retrieve symptoms provided by the user. The prediction model can be designed using Machine learning algorithms such as KNN, Random Forest and Decision Tree. All the algorithms were applied on the same dataset and based on the confidence and accuracy rate, the best model is selected which was Random Forest.
